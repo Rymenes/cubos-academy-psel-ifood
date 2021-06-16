@@ -14,4 +14,4 @@ function solucao(obj) {
         console.log ("ACESSO NEGADO");
     }  
     
-}
+} 
